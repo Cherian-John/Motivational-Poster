@@ -1,2 +1,2 @@
-# Motivational-Poster
-Motivational-Poster Using HTML&amp;CSS
+# Motivational-Meme
+Motivational-Meme Using HTML&amp;CSS
